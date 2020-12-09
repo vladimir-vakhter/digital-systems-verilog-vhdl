@@ -9,7 +9,7 @@ This repository contains the solutions for the assignments from the 'Modeling an
 
 
 The detailed information about the projects is contained in the attached reports placed in the corresponding subfolders.
-Some IP cores were deleted from the projects to avoid copyright infringements.
+IP cores were deleted from the projects to avoid copyright infringements.
 
 # Used FPGA board
 The above projects were designed for the Nexys A7 board, based on the xc7a100tcsg324-3 FPGA from Xilinx.
