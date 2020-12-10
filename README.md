@@ -8,7 +8,7 @@ This repository contains the solutions for the assignments from the 'Modeling an
 3 -  </br>
 
 
-The detailed information about the projects is contained in the attached reports placed in the corresponding subfolders.
+The detailed information about the projects 1-3 is contained in the attached reports placed in the corresponding subfolders.
 IP cores were deleted from the projects to avoid copyright infringements.
 
 # Used FPGA board
