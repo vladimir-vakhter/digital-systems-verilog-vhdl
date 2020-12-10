@@ -15,5 +15,5 @@ IP cores were deleted from the projects to avoid copyright infringements.
 The above projects were designed for the Nexys A7 board, based on the xc7a100tcsg324-3 FPGA from Xilinx.
 
 # Acknowledgements
-Prof. Yarkin Doroz (ydoroz@wpi.edu) for teaching the course, as well as for the tasks' formulation, and valuable discussions on the topic.
+Prof. Yarkin Doroz (ydoroz@wpi.edu) for teaching the course, as well as for the tasks' formulation, and valuable discussions on the topic.</br>
 The files were published with the permission of Prof. Doroz.
