@@ -2,10 +2,10 @@
 
 This repository contains the solutions for the assignments from the 'Modeling and Synthesis of Digital Systems Using Verilog and VHDL' course (ECE574) taken at Worcester Polytechnic Institute - WPI in the Fall 2019. The repository includes 4 projects, namely:
 
-0 (prelimenary) -  </br>
-1 -  </br>
-2 -  </br>
-3 -  </br>
+0 - 4-to-16 Decoder (prelimenary project). </br>
+1 - VGA Display and Light Sensor. </br>
+2 - Memory Interface along with a Microblaze Embedded Processor (part 4 only, as including the techniques from parts 1-3). </br>
+3 - Pong Game. </br>
 
 
 The detailed information about the projects 1-3 is contained in the attached reports placed in the corresponding subfolders.
