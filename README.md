@@ -16,4 +16,4 @@ The above projects were designed for the Nexys A7 board, based on the xc7a100tcs
 
 # Acknowledgements
 Prof. Yarkin Doroz (ydoroz@wpi.edu) for teaching the course, as well as for the tasks' formulation, and valuable discussions on the topic.</br>
-The files were published with the permission of Prof. Doroz.
+</br></br>The files were published with the permission of Prof. Doroz.
